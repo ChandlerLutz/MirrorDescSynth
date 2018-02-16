@@ -1,0 +1,13 @@
+Package: MirrorDescSynth
+Type: Package
+Title: Implements Mirror Descent for Synth
+Version: 0.0.0.9000
+Date: 2018-01-25
+Author: Chandler Lutz
+Maintainer: Chandler Lutz <chandler.lutz@gmail.com>
+Description: Implements Mirror Descent for Synth.
+License: GPL-2
+Imports:
+    Rcpp (>= 0.12.15)
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 6.0.1
